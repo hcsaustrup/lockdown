@@ -30,4 +30,4 @@ Disclaimer: Some of these activities may not be suitable for everyone, and may i
 
 ## Other game Platforms
 
-* https://www.airconsole.com/ - Browser + phone-as-controller gaming platform. Requires app. Many games available.
+* https://www.airconsole.com/ - Browser + phone-as-controller gaming platform. Requires mobile app. Many games available.
