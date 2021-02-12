@@ -12,18 +12,22 @@ Disclaimer: Some of these activities may not be suitable for everyone, and may i
 * https://meet.jit.si/ - Free, no registration, no app needed, private rooms.
 
 
-## Online games
+## Browser based games
 
-### Fast paced
+### Quizzes & Guessing games
 
 * https://www.geoguessr.com/ - Explore the world and figure out where you are. Based on Google Maps Street View. 1-? players.
 * https://skribbl.io/ - Take turns drawing and guessing words. 2-12 players.
-* https://allbad.cards/ - An online clone of the infamous *Cards Against Humanity* game. 2-15 players.
 
-### Slow paced
+### Strategy
 
 * https://catanuniverse.com/en/game/ - Catan Universe
 
-### Unsorted
+### Other
 
-* https://www.airconsole.com/
+* https://allbad.cards/ - An online clone of the infamous *Cards Against Humanity* game. 2-15 players.
+* https://classic.minecraft.net/ - Ephemeral classic Minecraft server for 1-10 players.
+
+### Game Platforms
+
+* https://www.airconsole.com/ - Browser and phone-as-controller gaming platform.
