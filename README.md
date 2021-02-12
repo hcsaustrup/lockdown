@@ -25,7 +25,8 @@ Disclaimer: Some of these activities may not be suitable for everyone, and may i
 
 ### Other
 
-* https://allbad.cards/ - An online clone of the infamous *Cards Against Humanity* game. 2-15 players.
+* https://allbad.cards/ - An online clone of the infamous *Cards Against Humanity* game. NSFW version. 2-15 players.
+* https://not.allbad.cards/ - Same as above, but a more family friendly PG version.
 * https://classic.minecraft.net/ - Classic Minecraft construct. 1-10 players.
 
 ## Other game Platforms
