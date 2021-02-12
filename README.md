@@ -28,6 +28,6 @@ Disclaimer: Some of these activities may not be suitable for everyone, and may i
 * https://allbad.cards/ - An online clone of the infamous *Cards Against Humanity* game. 2-15 players.
 * https://classic.minecraft.net/ - Classic Minecraft construct. 1-10 players.
 
-### Game Platforms
+## Other game Platforms
 
-* https://www.airconsole.com/ - Browser and phone-as-controller gaming platform.
+* https://www.airconsole.com/ - Browser + phone-as-controller gaming platform. Requires app. Many games available.
