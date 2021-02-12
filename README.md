@@ -26,7 +26,7 @@ Disclaimer: Some of these activities may not be suitable for everyone, and may i
 ### Other
 
 * https://allbad.cards/ - An online clone of the infamous *Cards Against Humanity* game. 2-15 players.
-* https://classic.minecraft.net/ - Ephemeral classic Minecraft server for 1-10 players.
+* https://classic.minecraft.net/ - Classic Minecraft construct. 1-10 players.
 
 ### Game Platforms
 
